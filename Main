@@ -1,0 +1,7 @@
+local GameP = game.PlaceId
+
+if game.PlaceId == 6516141723 then --Test
+loadstring(game:HttpGet(""))()
+  else -- Not Support
+print("Not Support")
+end
